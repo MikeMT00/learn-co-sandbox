@@ -1,0 +1,10 @@
+my_array = [ "Mike", "Chavo", "Banshee", "J Lee" ]
+my_array#=> [ "Mike", "Chavo", "Banshee", "J Lee" ]
+
+my_array[0] #=> "Mike"
+
+my_array[1] #=> "Chavo"
+
+my_array[2] #=> "Banshee"
+
+my_array[3] #=> "J Lee"

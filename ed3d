@@ -1,0 +1,3 @@
+def total
+puts 6 + 3
+end
